@@ -1,3 +1,10 @@
+# 1.0.0-next.25 (https://github.com/rdkcentral/firebolt-cpp-transport/compare/v1.0.0-next.24...v1.0.0-next.25) (2025-12-17)
+
+### Bug Fixes
+
+    * Align naming convention ([#43](https://github.com/rdkcentral/firebolt-cpp-transport/issues/43)) ([9410228](https://github.com/rdkcentral/firebolt-cpp-transport/commit/94102285da100714f5a9482ca628d980680aea72))
+
+
 # [1.0.0-next.24](https://github.com/rdkcentral/firebolt-cpp-transport/compare/v1.0.0-next.23...v1.0.0-next.24) (2025-12-12)
 
 
